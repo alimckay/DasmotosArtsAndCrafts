@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: helvetica;
+    margin: 50px 10px;
+}
+
+h1 {
+    text-align:center;
+    font-size: 100px;
+    color: khaki;
+    background-image: url("photos/pattern.jpeg");
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 32px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
